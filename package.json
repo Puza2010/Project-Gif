@@ -4,7 +4,8 @@
   "description": "y",
   "main": "y",
   "scripts": {
-    "test": "y",
+    "start": "http-server",
+    "test": "y"
   },
   "repository": {
     "type": "git",
